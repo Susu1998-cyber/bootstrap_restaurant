@@ -1,0 +1,16 @@
+.container{
+    /* border: 2px solid blue; */
+}
+
+.row{
+    /* border: 2px solid green; */
+}
+
+.col-6{
+    border: 2px solid red;
+    background-color: lightcoral;
+}
+.col-xxl-4{
+    border: 2px solid red;
+    background-color: lightcoral;
+}
